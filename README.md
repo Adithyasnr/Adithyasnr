@@ -1,5 +1,5 @@
 
-[![MaterHead](https://i.pinimg.com/564x/46/c2/04/46c2049f9215508ab045206123065de9.jpg)]
+[![MaterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)]
 
 <h1 align="center">Hi 👋, I'm Adithya Reddy</h1>
 <h3 align="center">A passionate web developer and ML enthusiast</h3>
