@@ -1,8 +1,9 @@
 
- [![MaterHead](https://i.pinimg.com/originals/22/86/8e/22868e0951f2b550cff2d158b30a5bf6.gif)]
+[![MaterHead](https://i.pinimg.com/originals/65/ff/25/65ff25ffbe3786b2de094f7051bbd873.gif)]
 
-<h1 align="center">Holaaa!!,This is Adithya Reddy</h1>
+<h1 align="center">Hi 👋, I'm Adithya Reddy</h1>
 <h3 align="center">A passionate web developer and ML enthusiast</h3>
+<img align+"right" alt="Coding" with="400" src="https://www.deviantart.com/pixeljeff/art/Mastermind-847156722">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyasnr&label=Profile%20views&color=0e75b6&style=flat" alt="adithyasnr" /> </p>
